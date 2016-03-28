@@ -12,3 +12,5 @@ ratings:
   - "**.vim"
 exclude_paths:
   - vim/.vim/colors/
+  
+#comment to test
